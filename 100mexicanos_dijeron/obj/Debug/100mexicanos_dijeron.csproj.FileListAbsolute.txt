@@ -31,3 +31,6 @@ C:\Users\evilnapsis\Documents\GitHub\cien_alumnos_dijeron\100mexicanos_dijeron\o
 C:\Users\evilnapsis\Documents\GitHub\cien_mexicanos_dijeron\100mexicanos_dijeron\bin\Debug\100mexicanos_dijeron.exe.config
 C:\Users\evilnapsis\Documents\GitHub\cien_mexicanos_dijeron\100mexicanos_dijeron\obj\Debug\100mexicanos_dijeron.exe
 C:\Users\evilnapsis\Documents\GitHub\cien_mexicanos_dijeron\100mexicanos_dijeron\obj\Debug\100mexicanos_dijeron.pdb
+C:\Users\evilnapsis\Documents\GitHub\100mexicanos_30rondas\100mexicanos_dijeron\bin\Debug\100mexicanos_dijeron.exe.config
+C:\Users\evilnapsis\Documents\GitHub\100mexicanos_30rondas\100mexicanos_dijeron\obj\Debug\100mexicanos_dijeron.exe
+C:\Users\evilnapsis\Documents\GitHub\100mexicanos_30rondas\100mexicanos_dijeron\obj\Debug\100mexicanos_dijeron.pdb
