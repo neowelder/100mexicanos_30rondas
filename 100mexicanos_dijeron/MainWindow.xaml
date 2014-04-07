@@ -35,7 +35,6 @@
         <Button Content="&gt;" HorizontalAlignment="Left" BorderBrush="Black" Background="White" Padding="3px" Name="toteam2" Margin="260.425,554,0,0" VerticalAlignment="Top" Width="29" Click="toteam2_Click" Grid.Column="2"/>
         <Button Content="&lt;" HorizontalAlignment="Left" BorderBrush="Black" Background="White" Padding="3px" Name="toteam1" Margin="231.425,554,0,0" VerticalAlignment="Top" Width="29" Click="toteam1_Click_1" Grid.Column="2"/>
         <Button Content="x" Name="showfail" BorderBrush="Black" Background="White" Padding="3px" HorizontalAlignment="Left" Margin="17.425,554,0,0" VerticalAlignment="Top" Width="29" Click="showfail_Click" Grid.Column="3"/>
-        <Button Content="o" HorizontalAlignment="Left" BorderBrush="Black" Background="White" Padding="3px" Margin="544.425,554,0,0" VerticalAlignment="Top" Width="29" Grid.Column="2" Grid.ColumnSpan="2"/>
         <TextBox HorizontalAlignment="Left" Foreground="Lime" Name="markerteam1" Height="46" Margin="42,183,0,0" TextWrapping="Wrap" BorderBrush="Black" Background="Black" Padding="3px" Text="000" TextAlignment="Right" VerticalAlignment="Top" Width="120" FontSize="30" FontWeight="Bold"/>
         <TextBox HorizontalAlignment="Left" Foreground="Lime" Background="Black" Name="markerteam2" Height="46" Margin="523,184,0,0" TextWrapping="Wrap" Text="000" TextAlignment="Right" VerticalAlignment="Top" Width="120" FontSize="30" FontWeight="Bold" Grid.ColumnSpan="3" Grid.Column="2"/>
         <Label Content="0" Name="marker1" Foreground="Lime" HorizontalAlignment="Left" Margin="384,236,0,0" VerticalAlignment="Top" FontSize="20" Grid.Column="2"/>
@@ -53,7 +52,7 @@
         <Label Content="Equipo 2" HorizontalAlignment="Left" Margin="24.463,105,0,0" VerticalAlignment="Top" Grid.ColumnSpan="2" Grid.Column="3"/>
         <Button Content="i" BorderBrush="Black" Name="iniciar" Background="White" Padding="3px"  HorizontalAlignment="Left" Margin="118.425,554,0,0" VerticalAlignment="Top" Width="29" Click="iniciar_Click" Grid.Column="2"/>
         <Button Content="&lt; ronda anterior" BorderBrush="Black" Background="White" Padding="3px" Name="prev" HorizontalAlignment="Left" Margin="87,554,0,0" VerticalAlignment="Top" Width="110" Click="prev_Click" Grid.ColumnSpan="2"/>
-        <Button Content="ronda siguiente &gt;" BorderBrush="Black" Background="White" Padding="3px" Name="next" HorizontalAlignment="Left" Margin="30,554,0,0" VerticalAlignment="Top" Width="110" Click="next_Click" Grid.ColumnSpan="2" Grid.Column="1"/>
+        <Button Content="ronda siguiente &gt;" BorderBrush="Black" Background="White" Padding="3px" Name="next" Margin="30,554,483,0" VerticalAlignment="Top" Click="next_Click" Grid.ColumnSpan="2" Grid.Column="1"/>
         <Label Content="Por NeoWelder Labs" HorizontalAlignment="Left" Margin="25,528,0,0" VerticalAlignment="Top" Background="Black" Foreground="White"/>
 
     </Grid>

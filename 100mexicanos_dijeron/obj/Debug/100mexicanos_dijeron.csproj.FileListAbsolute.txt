@@ -34,3 +34,15 @@ C:\Users\evilnapsis\Documents\GitHub\cien_mexicanos_dijeron\100mexicanos_dijeron
 C:\Users\evilnapsis\Documents\GitHub\100mexicanos_30rondas\100mexicanos_dijeron\bin\Debug\100mexicanos_dijeron.exe.config
 C:\Users\evilnapsis\Documents\GitHub\100mexicanos_30rondas\100mexicanos_dijeron\obj\Debug\100mexicanos_dijeron.exe
 C:\Users\evilnapsis\Documents\GitHub\100mexicanos_30rondas\100mexicanos_dijeron\obj\Debug\100mexicanos_dijeron.pdb
+C:\Users\evilnapsis\Documents\GitHub\100mexicanos_30rondas\100mexicanos_dijeron\bin\Debug\100mexicanos_dijeron.exe
+C:\Users\evilnapsis\Documents\GitHub\100mexicanos_30rondas\100mexicanos_dijeron\bin\Debug\100mexicanos_dijeron.pdb
+C:\Users\evilnapsis\Documents\GitHub\100mexicanos_30rondas\100mexicanos_dijeron\obj\Debug\100mexicanos_dijeron.csprojResolveAssemblyReference.cache
+C:\Users\evilnapsis\Documents\GitHub\100mexicanos_30rondas\100mexicanos_dijeron\obj\Debug\Info.baml
+C:\Users\evilnapsis\Documents\GitHub\100mexicanos_30rondas\100mexicanos_dijeron\obj\Debug\MainWindow.baml
+C:\Users\evilnapsis\Documents\GitHub\100mexicanos_30rondas\100mexicanos_dijeron\obj\Debug\Info.g.cs
+C:\Users\evilnapsis\Documents\GitHub\100mexicanos_30rondas\100mexicanos_dijeron\obj\Debug\MainWindow.g.cs
+C:\Users\evilnapsis\Documents\GitHub\100mexicanos_30rondas\100mexicanos_dijeron\obj\Debug\App.g.cs
+C:\Users\evilnapsis\Documents\GitHub\100mexicanos_30rondas\100mexicanos_dijeron\obj\Debug\100mexicanos_dijeron_MarkupCompile.cache
+C:\Users\evilnapsis\Documents\GitHub\100mexicanos_30rondas\100mexicanos_dijeron\obj\Debug\100mexicanos_dijeron.g.resources
+C:\Users\evilnapsis\Documents\GitHub\100mexicanos_30rondas\100mexicanos_dijeron\obj\Debug\_100mexicanos_dijeron.Properties.Resources.resources
+C:\Users\evilnapsis\Documents\GitHub\100mexicanos_30rondas\100mexicanos_dijeron\obj\Debug\100mexicanos_dijeron.csproj.GenerateResource.Cache

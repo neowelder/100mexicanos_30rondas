@@ -54,6 +54,28 @@ namespace _100mexicanos_dijeron
             rondas.Add(new Ronda("ronda6"));
             rondas.Add(new Ronda("ronda7"));
             rondas.Add(new Ronda("ronda8"));
+            rondas.Add(new Ronda("ronda9"));
+            rondas.Add(new Ronda("ronda10"));
+            rondas.Add(new Ronda("ronda11"));
+            rondas.Add(new Ronda("ronda12"));
+            rondas.Add(new Ronda("ronda13"));
+            rondas.Add(new Ronda("ronda14"));
+            rondas.Add(new Ronda("ronda15"));
+            rondas.Add(new Ronda("ronda16"));
+            rondas.Add(new Ronda("ronda17"));
+            rondas.Add(new Ronda("ronda18"));
+            rondas.Add(new Ronda("ronda19"));
+            rondas.Add(new Ronda("ronda20"));
+            rondas.Add(new Ronda("ronda21"));
+            rondas.Add(new Ronda("ronda22"));
+            rondas.Add(new Ronda("ronda23"));
+            rondas.Add(new Ronda("ronda24"));
+            rondas.Add(new Ronda("ronda25"));
+            rondas.Add(new Ronda("ronda26"));
+            rondas.Add(new Ronda("ronda27"));
+            rondas.Add(new Ronda("ronda28"));
+            rondas.Add(new Ronda("ronda29"));
+            rondas.Add(new Ronda("ronda30"));
 
         }
 
@@ -240,7 +262,7 @@ namespace _100mexicanos_dijeron
         {
             ron = 0;
             cargar_ronda(ron);
-            MessageBox.Show("Van a empezar las 8 rondas para moverte entre las diferentes rondas debes presionar los botones \'ronda anterior\' y \'ronda siguiente\'");
+            MessageBox.Show("Van a empezar las 30 rondas para moverte entre las diferentes rondas debes presionar los botones \'ronda anterior\' y \'ronda siguiente\'");
         }
 
         private void prev_Click(object sender, RoutedEventArgs e)
@@ -266,11 +288,11 @@ namespace _100mexicanos_dijeron
         {
             if (ron != -1)
             {
-                if (ron == 7)
+                if (ron == 29)
                 {
                     MessageBox.Show("Ya no puedes ir mas adelante ...");
                 }
-                else if (ron < 7)
+                else if (ron < 29)
                 {
                     ron = ron + 1;
                     cargar_ronda(ron);
